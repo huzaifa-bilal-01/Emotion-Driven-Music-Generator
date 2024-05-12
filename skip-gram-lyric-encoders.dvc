@@ -1,0 +1,6 @@
+outs:
+- md5: 72ba3c3a582e8e208fb0d9bf68d6e04e.dir
+  size: 153190381
+  nfiles: 8
+  hash: md5
+  path: skip-gram-lyric-encoders

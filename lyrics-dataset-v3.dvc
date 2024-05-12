@@ -1,0 +1,6 @@
+outs:
+- md5: 35bb20602d52ccfbfb863afba9b90cea.dir
+  size: 417980021
+  nfiles: 3
+  hash: md5
+  path: lyrics-dataset-v3
